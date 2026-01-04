@@ -119,6 +119,6 @@ Free to use for learning and practice purposes.
 
 ---
 
-<img width="1874" height="961" alt="Screenshot 2026-01-04 131300" src="https://github.com/user-attachments/assets/1fcad99a-aecd-45b4-b794-2c280d8db51a" />
-<img width="1859" height="880" alt="Screenshot 2026-01-04 130520" src="https://github.com/user-attachments/assets/fef087ec-004c-4758-9533-b548e255a19c" />
+<img width="1874" height="961" alt="Screenshot 2026-01-04 131300" src="https://github.com/user-attachments/assets/aa218cd8-e6a1-4e88-8bb4-c7a73d757186" />
+<img width="1859" height="880" alt="Screenshot 2026-01-04 130520" src="https://github.com/user-attachments/assets/b98ae3c0-d366-40a2-9a86-4ea88176d2ed" />
 
