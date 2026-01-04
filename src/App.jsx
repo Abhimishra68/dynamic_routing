@@ -9,6 +9,7 @@ import Note from './pages/Note'
 import Nestedroute from './pages/Nestedroute'
 import Men from './pages/Men'
 import Women from './pages/Women'
+import CourseDetails from './pages/CourseDetails'
 
 
 function App() {
@@ -18,10 +19,9 @@ function App() {
         <Routes>
           <Route path='/' element = {<Home/>}/>
           <Route path='/about' element={<About/>}/>
-          <Route path='/product' element={<Product/>}>
-            <Route path='men' element={<Men />}/>
-            <Route path='women' element={<Women />}/>
-          </Route>
+          <Route path='/courses/:CourseId' element={<CourseDetails/>}/>
+          <Route path='/product' element={<Product/>}/>
+        
           <Route path='*' element={<Note />}></Route>
           <Route path='/product/nested' element={<Nestedroute />}></Route>
           {/* <Route path='/product/men' element={<Men />}></Route>
